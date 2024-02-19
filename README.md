@@ -2,8 +2,11 @@
 Consigue mi entorno de trabajo basado en Bspwm. Simplifica, y obtén un entorno más bueno para el hacking ético. Con todas las herramientas necesarias incluidas, este script automatiza el hecho de instalar todo lo que necesites además de tener un entorno GOOD.
 
 ![imagen](https://github.com/OusCyb3rH4ck/AutoBspwm/assets/158448818/986bff1f-7231-4254-8fe9-da5a06cabc4f)
+## 
+![imagen](https://github.com/OusCyb3rH4ck/AutoBspwm/assets/158448818/d108c5f8-4b8e-4d89-bb20-a43748c95e01)
 
-## Teclas (Shortcuts) del sistema
+
+## Atajos (Shortcuts) del sistema
 - `WIN + Enter` Abrir Terminal (Kitty)
 - `WIN + d` Abrir lanzador de programas (Rofi)
 - `WIN + SHIFT + f` Abrir Firefox
@@ -27,3 +30,23 @@ Consigue mi entorno de trabajo basado en Bspwm. Simplifica, y obtén un entorno 
 - `WIN + s` Minimizar ventana
 - `CTRL + WIN + [Teclas arriba, abajo, izquierda, derecha]` Mover la ventana (Con la ventana minimizada [WIN + s])
 - `ALT + WIN + [Teclas arriba, abajo, izquierda, derecha]` Cambiar tamaño de la ventana según tus necesidades (Con la ventana minimizada [WIN + s])
+
+## Atajos (ShortCuts) de la Terminal (Kitty)
+- `WIN + Enter` Abrir Terminal (Kitty)
+- `CTRL + SHIFT + t` Abrir nueva pestaña
+- `CTRL + SHIFT + Enter` Abrir nueva terminal en la misma pestaña
+- `CTRL + SHIFT + ALT + t` Renombrar pestaña
+- `CTRL + SHIFT + [COMA "," | PUNTO "."]` Mover pestaña a la izquierda o derecha
+- `CTRL + SHIFT + z` Maximizar la terminal actual (En caso de tener otra terminal en la misma pestaña, por si acaso)
+- `CTRL + SHIFT + r` Ajustar la terminal actual (En caso de tener otra terminal en la misma pestaña, por si acaso)
+- `CTRL + [Teclas arriba, abajo, izquierda, derecha]` Moverse entre terminales de la misma pestaña
+## 
+- `ESC + ESC (RÁPIDAMENTE)` Poner la palabra "sudo" al principio (Útil en caso de querer usar root para un comando ya escrito)
+- `CTRL + r` Ver el histórico de comandos escritos anteriormente
+- `CTRL + t` Buscar archivos y directorios de forma recursiva partiendo del directorio actual
+- `F1` Copiar selección al portapapeles (Búfer 1)
+- `F2` Pegar selección del búfer 1
+- `F3` Copiar selección al portapapeles (Búfer 2)
+- `F4` Pegar selección del búfer 2
+- `F5` Copiar selección al portapapeles (Búfer 3)
+- `F6` Pegar selección del búfer 3
