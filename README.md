@@ -21,3 +21,7 @@ Consigue mi entorno de trabajo basado en Bspwm. Simplifica, y obtén un entorno 
 - `WIN + m` Alternar entre el diseño en mosaico y el diseño monocle
 - `WIN + g` Intercambiar el nodo actual y la ventana más grande
 - `WIN + t` Ajustar la ventana al margen
+- `WIN + f` Maximizar ventana (a pantalla completa)
+- `WIN + s` Minimizar ventana
+- `CTRL + WIN + [Teclas arriba, abajo, izquierda, derecha]` Mover la ventana (Con la ventana minimizada [WIN + s])
+- `ALT + WIN + [Teclas arriba, abajo, izquierda, derecha]` Cambiar tamaño de la ventana según tus necesidades (Con la ventana minimizada [WIN + s])
