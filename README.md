@@ -41,6 +41,7 @@ Consigue mi entorno de trabajo basado en Bspwm. Simplifica, y obtén un entorno 
 - `CTRL + [Teclas arriba, abajo, izquierda, derecha]` Moverse entre terminales de la misma pestaña
 ## 
 - `ESC + ESC (RÁPIDAMENTE)` Poner la palabra "sudo" al principio (Útil en caso de querer usar root para un comando ya escrito)
+- `CTRL + l` Vaciar la terminal actual
 - `CTRL + r` Ver el histórico de comandos escritos anteriormente
 - `CTRL + t` Buscar archivos y directorios de forma recursiva partiendo del directorio actual
 - `F1` Copiar selección al portapapeles (Búfer 1)
