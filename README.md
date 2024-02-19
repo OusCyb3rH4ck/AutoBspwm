@@ -14,7 +14,7 @@ Consigue mi entorno de trabajo basado en Bspwm. Simplifica, y obtén un entorno 
 - `WIN + l` Bloquear la sesión actual
 - `WIN + SHIFT + e` Abrir Edge (A instalar por cuenta propia)
 - `WIN + SHIFT + g` Abrir Google Chrome (A instalar por cuenta propia)
-   
+### 
 - `WIN + SHIFT + [1, 2, 3, 4, 5, 6]` Cambiar de escritorio
 - `WIN + CTRL + SHIFT + [1, 2, 3, 4, 5, 6]` Mover la ventana actual a otro escritorio
 - `WIN + ESC` Aplicar cambios de la SXHKD
