@@ -54,6 +54,8 @@ Consigue mi entorno de trabajo basado en Bspwm. Simplifica, y obtén un entorno 
 ## Instalación & Úso (¡¡¡LEER ATENTIVAMENTE!!!)
 ![imagen](https://github.com/OusCyb3rH4ck/AutoBspwm/assets/158448818/4d414986-e6ef-46dd-b81a-7b282430bff9)
 
+### Funcional en Kali Linux y Parrot OS. Podría funcionar en Ubuntu también.
+
 - Cambia el propietario del directorio "/opt" a tu usuario normal con `sudo chown -R usuario:usuario /opt` (Cambia "usuario" por tu usuario)
 - Clona el repositorio en el directorio "/opt" con `git clone https://github.com/OusCyb3rH4ck/AutoBspwm /opt/AutoBspwm`
 - Ejecuta `cd /opt/AutoBspwm` para moverte al directorio
