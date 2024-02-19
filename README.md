@@ -49,3 +49,10 @@ Consigue mi entorno de trabajo basado en Bspwm. Simplifica, y obtén un entorno 
 - `F4` Pegar selección del búfer 2
 - `F5` Copiar selección al portapapeles (Búfer 3)
 - `F6` Pegar selección del búfer 3
+
+## Instalación & Úso (¡¡¡LEER ATENTIVAMENTE!!!)
+
+- Cambiar el propietario del directorio "/opt" a tu usuario normal con `chown -R usuario:usuario /opt` (Cambia "usuario" por tu usuario)
+- Clonar el repositorio en el directorio "/opt" con `git clone https://github.com/OusCyb3rH4ck/AutoBspwm /opt/`
+- Ejecuta `cd /opt/AutoBspwm` para moverte al directorio
+- EJECUTA ESTE COMANDO `` (¡ES OBLIGATORIO E IMPORTANTE, SINO NO FUNCIONARÁ!)
