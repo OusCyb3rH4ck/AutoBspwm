@@ -65,7 +65,7 @@ fi
 echo -e "\e[1;95m\n\nCopiando las configuraciones...\n\e[0m"
 sleep 2
 sudo mv /usr/bin/python2 /usr/bin/python
-sudo mkdir /usr/share/zsh-sudo && sudo chown -R ouscyb3rh4ck:ouscyb3rh4ck /usr/share/zsh-sudo && wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/plugins/sudo/sudo.plugin.zsh -o /usr/share/zsh-sudo/sudo.plugin.zsh && chmod +x /usr/share/zsh-sudo/sudo.plugin.zsh
+sudo mkdir /usr/share/zsh-sudo && sudo chown -R ouscyb3rh4ck:ouscyb3rh4ck /usr/share/zsh-sudo && wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/plugins/sudo/sudo.plugin.zsh && mv sudo.plugin.zsh /usr/share/zsh-sudo/ && chmod +x /usr/share/zsh-sudo/sudo.plugin.zsh
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git /home/ouscyb3rh4ck/powerlevel10k && sudo git clone --depth=1 https://github.com/romkatv/powerlevel10k.git /root/powerlevel10k
 cp -rf config/bin config/bspwm config/kitty config/picom config/polybar config/sxhkd /home/ouscyb3rh4ck/.config/
 mkdir -p /home/ouscyb3rh4ck/.config/rofi/themes && cp -rf config/nord.rasi /home/ouscyb3rh4ck/.config/rofi/themes/nord.rasi
