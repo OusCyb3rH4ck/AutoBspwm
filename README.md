@@ -59,6 +59,6 @@ Consigue mi entorno de trabajo basado en Bspwm. Simplifica, y obtén un entorno 
 - Cambia el propietario del directorio "/opt" a tu usuario normal con `sudo chown -R usuario:usuario /opt` (Cambia "usuario" por tu usuario)
 - Clona el repositorio en el directorio "/opt" con `git clone https://github.com/OusCyb3rH4ck/AutoBspwm /opt/AutoBspwm`
 - Ejecuta `cd /opt/AutoBspwm` para moverte al directorio
-- EJECUTA ESTE COMANDO (¡ES OBLIGATORIO E IMPORTANTE, SINO NO FUNCIONARÁ!) `find . -type f -print0 | xargs -0 sed -i 's/ouscyb3rh4ck/usuario/g'` (Cambia "usuario" por tu usuario)
+- EJECUTA ESTE COMANDO (**¡ES OBLIGATORIO E IMPORTANTE, SINO NO FUNCIONARÁ!**) `find . -type f -print0 | xargs -0 sed -i 's/ouscyb3rh4ck/usuario/g'` (Cambia "usuario" por tu usuario)
 - Luego, ejecuta `chmod +x AutoBspwm.sh`
 - Y finalmente `./AutoBspwm.sh` (NO LO EJECUTES COMO ROOT, SINO VA A PETAR)
