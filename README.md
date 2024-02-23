@@ -1,7 +1,7 @@
 # AutoBspwm
 Consigue mi entorno de trabajo basado en Bspwm. Simplifica, y obtén un entorno más bueno para el hacking ético. Con todas las herramientas necesarias incluidas, este script automatiza el hecho de instalar todo lo que necesites además de tener un entorno GOOD.
 
-### Funcional en Kali Linux y Parrot OS. Podría funcionar en Ubuntu también.
+### Funcional en Kali Linux. Podría funcionar en Parrot OS y Ubuntu también.
 
 ![imagen](https://github.com/OusCyb3rH4ck/AutoBspwm/assets/158448818/986bff1f-7231-4254-8fe9-da5a06cabc4f)
 ![imagen](https://github.com/OusCyb3rH4ck/AutoBspwm/assets/158448818/d108c5f8-4b8e-4d89-bb20-a43748c95e01)
