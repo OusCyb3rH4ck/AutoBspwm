@@ -49,7 +49,7 @@ fi
 sleep 1
 echo -e "\e[1;35m\n\nActualizando sistema antes de comenzar...\n\e[0m"
 sleep 1
-sudo cp -f config/kali-upgrade /usr/bin/kali-upgrade && sudo chown -R ouscyb3rh4ck:ouscyb3rh4ck /usr/bin/kali-upgrade && sudo chmod +x /usr/bin/kali-upgrade
+[ ! -e "/usr/bin/kali-upgrade" ] && sudo cp -f "config/kali-upgrade" /usr/bin/kali-upgrade && sudo chown -R ouscyb3rh4ck:ouscyb3rh4ck /usr/bin/kali-upgrade && sudo chmod +x /usr/bin/kali-upgrade
 /usr/bin/kali-upgrade
 
 echo -e "\e[1;35m\nInstalando paquetes necesarios...\n\e[0m"
